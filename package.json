@@ -1,0 +1,21 @@
+{
+  "name": "monokai-pink-amber-dark-plus",
+  "displayName": "Monokai-Pink-Amber-Dark-Plus",
+  "description": "Dark + theme with minimal blue light syntax highlighting",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "MPA Dark+",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MPA Dark+-color-theme.json"
+      }
+    ]
+  }
+}
