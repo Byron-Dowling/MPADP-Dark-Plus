@@ -2,6 +2,10 @@
   "name": "monokai-pink-amber-dark-plus",
   "displayName": "Monokai-Pink-Amber-Dark-Plus",
   "description": "Dark + theme with minimal blue light syntax highlighting",
+  "publisher": "ByronDowling",
+  "repository": {
+      "url": "https://github.com/Byron-Dowling/MPADP-Dark-Plus"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.71.0"
