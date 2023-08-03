@@ -1,4 +1,4 @@
-# MPA-Dark-Plus README
+# MPA-Dark-Plus
 
 VS Code theme that is based on the "Dark +" theme and is modified with syntax coloring to minimize blue light.
 
